@@ -23,8 +23,10 @@
 hs_err_pid*
 
 .idea/
+build/
 .gradle/
 gradle/
 gradlew
 gradlew.bat
+rebels.txt
 
